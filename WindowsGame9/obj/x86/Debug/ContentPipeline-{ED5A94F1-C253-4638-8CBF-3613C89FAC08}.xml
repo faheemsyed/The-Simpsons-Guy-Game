@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Bullet.png</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2014-12-05T17:09:21.9384699-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls.png</Source>
+      <Name>Controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Controls.xnb</Output>
+      <Time>2014-12-09T01:04:54.3585289-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eggs.png</Source>
+      <Name>Eggs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Eggs.xnb</Output>
+      <Time>2014-12-05T17:09:21.9384699-05:00</Time>
+    </Item>
+    <Item>
+      <Source>End Screen.png</Source>
+      <Name>End Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\End Screen.xnb</Output>
+      <Time>2014-12-09T16:20:32.2937445-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explode.png</Source>
+      <Name>Explode</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Explode.xnb</Output>
+      <Time>2014-12-05T17:09:21.9384699-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GiantChicken.png</Source>
+      <Name>GiantChicken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\GiantChicken.xnb</Output>
+      <Time>2014-12-09T03:54:22.4659196-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthBar2.png</Source>
+      <Name>HealthBar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\HealthBar2.xnb</Output>
+      <Time>2014-12-05T17:09:21.9540949-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Homer.png</Source>
+      <Name>Homer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Homer.xnb</Output>
+      <Time>2014-12-05T17:09:21.9540949-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu.png</Source>
+      <Name>MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\MainMenu.xnb</Output>
+      <Time>2014-12-09T01:04:53.7804624-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PeterSpriteSheetFull.png</Source>
+      <Name>PeterSpriteSheetFull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\PeterSpriteSheetFull.xnb</Output>
+      <Time>2014-12-05T17:09:21.9540949-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Pumpkin.png</Source>
+      <Name>Pumpkin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Pumpkin.xnb</Output>
+      <Time>2014-12-05T17:09:21.9540949-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SecondTurkey.png</Source>
+      <Name>SecondTurkey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\SecondTurkey.xnb</Output>
+      <Time>2014-12-05T17:09:21.9540949-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Springfield1.png</Source>
+      <Name>Springfield1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Springfield1.xnb</Output>
+      <Time>2014-12-05T17:09:21.9540949-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Springfield2.png</Source>
+      <Name>Springfield2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Springfield2.xnb</Output>
+      <Time>2014-12-05T17:09:21.9853576-05:00</Time>
+    </Item>
+    <Item>
+      <Source>springfield3.png</Source>
+      <Name>springfield3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\springfield3.xnb</Output>
+      <Time>2014-12-05T17:09:21.9853576-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tornado.png</Source>
+      <Name>Tornado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Tornado.xnb</Output>
+      <Time>2014-12-05T17:09:22.0009699-05:00</Time>
+    </Item>
+    <Item>
+      <Source>UpgradeScreen.png</Source>
+      <Name>UpgradeScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\UpgradeScreen.xnb</Output>
+      <Time>2014-12-09T15:28:06.4208798-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2014-12-09T01:21:45.494208-05:00</Time>
+    </Item>
+    <Item>
+      <Source>whitePic.png</Source>
+      <Name>whitePic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\whitePic.xnb</Output>
+      <Time>2014-12-07T12:52:00.8563024-05:00</Time>
+    </Item>
+    <Item>
+      <Source>greenPic.png</Source>
+      <Name>greenPic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\greenPic.xnb</Output>
+      <Time>2014-12-07T13:42:49.1039806-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WhiteChicken.png</Source>
+      <Name>WhiteChicken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\WhiteChicken.xnb</Output>
+      <Time>2014-12-07T16:33:44.9424497-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Egg0.png</Source>
+      <Name>Egg0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Egg0.xnb</Output>
+      <Time>2014-12-07T19:18:10.3638116-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Egg1.png</Source>
+      <Name>Egg1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Egg1.xnb</Output>
+      <Time>2014-12-07T19:18:10.3688137-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Egg2.png</Source>
+      <Name>Egg2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Egg2.xnb</Output>
+      <Time>2014-12-07T19:18:10.3668131-05:00</Time>
+    </Item>
+    <Item>
+      <Source>whiteChickenCollision.png</Source>
+      <Name>whiteChickenCollision</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\whiteChickenCollision.xnb</Output>
+      <Time>2014-12-07T22:24:51.5317355-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WinMessage1.png</Source>
+      <Name>WinMessage1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\WinMessage1.xnb</Output>
+      <Time>2014-12-09T05:41:05.9771531-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WinMessage2.png</Source>
+      <Name>WinMessage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\WinMessage2.xnb</Output>
+      <Time>2014-12-09T05:41:05.9751525-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WinMessage3.png</Source>
+      <Name>WinMessage3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\WinMessage3.xnb</Output>
+      <Time>2014-12-09T05:41:05.9731511-05:00</Time>
+    </Item>
+    <Item>
+      <Source>LoseMessage.png</Source>
+      <Name>LoseMessage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\LoseMessage.xnb</Output>
+      <Time>2014-12-09T07:12:06.8722686-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Super Mario World Overworld.mp3</Source>
+      <Name>Super Mario World Overworld</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Super Mario World Overworld.xnb</Output>
+      <Extra>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Super Mario World Overworld.wma</Extra>
+      <Time>2014-12-09T11:38:36.9035492-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TornadoSE.wav</Source>
+      <Name>TornadoSE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\TornadoSE.xnb</Output>
+      <Time>2014-12-09T11:51:41.0980514-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GunShotSE.wav</Source>
+      <Name>GunShotSE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\GunShotSE.xnb</Output>
+      <Time>2014-12-09T12:33:50.9290775-05:00</Time>
+    </Item>
+    <Item>
+      <Source>pumpkinCollideSE.wav</Source>
+      <Name>pumpkinCollideSE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\pumpkinCollideSE.xnb</Output>
+      <Time>2014-12-09T13:12:17.0461345-05:00</Time>
+    </Item>
+    <Item>
+      <Source>chickenCollideSE.wav</Source>
+      <Name>chickenCollideSE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\chickenCollideSE.xnb</Output>
+      <Time>2014-12-09T14:02:53.118584-05:00</Time>
+    </Item>
+    <Item>
+      <Source>popSE.wav</Source>
+      <Name>popSE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\popSE.xnb</Output>
+      <Time>2014-12-09T14:11:45.3542662-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HomerSE.wav</Source>
+      <Name>HomerSE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\HomerSE.xnb</Output>
+      <Time>2014-12-09T14:22:52.4749197-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PeterSE.wav</Source>
+      <Name>PeterSE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\PeterSE.xnb</Output>
+      <Time>2014-12-09T15:18:59.6784297-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bossDieExplosion.wav</Source>
+      <Name>bossDieExplosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\bossDieExplosion.xnb</Output>
+      <Time>2014-12-09T15:18:20.1056061-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{ED5A94F1-C253-4638-8CBF-3613C89FAC08}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-12-05T17:03:33.1067879-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

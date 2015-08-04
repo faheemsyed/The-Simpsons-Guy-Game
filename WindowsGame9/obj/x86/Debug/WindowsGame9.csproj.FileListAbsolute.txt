@@ -1,0 +1,45 @@
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Bullet.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Controls.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Eggs.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\End Screen.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Explode.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\GiantChicken.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\HealthBar2.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Homer.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\MainMenu.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\PeterSpriteSheetFull.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Pumpkin.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\SecondTurkey.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Springfield1.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Springfield2.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\springfield3.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Tornado.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\UpgradeScreen.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\SpriteFont1.xnb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\WindowsGame9.exe
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\WindowsGame9.pdb
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\obj\x86\Debug\WindowsGame9.csprojResolveAssemblyReference.cache
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\obj\x86\Debug\WindowsGame9.exe
+c:\users\helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\obj\x86\Debug\WindowsGame9.pdb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\whitePic.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\greenPic.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\WhiteChicken.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Egg0.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Egg1.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Egg2.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\whiteChickenCollision.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\WinMessage1.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\WinMessage2.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\WinMessage3.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\LoseMessage.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Super Mario World Overworld.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\Super Mario World Overworld.wma
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\TornadoSE.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\GunShotSE.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\pumpkinCollideSE.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\chickenCollideSE.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\popSE.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\HomerSE.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\PeterSE.xnb
+C:\Users\Helen\documents\visual studio 2013\Projects\WindowsGame9\WindowsGame9\WindowsGame9\bin\x86\Debug\Content\bossDieExplosion.xnb
